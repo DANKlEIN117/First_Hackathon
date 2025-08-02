@@ -23,8 +23,8 @@ Welcome to my personal portfolio website, a creative and professional space show
 
 ##  Photos 
 
-<img src="Cover.png" width="400">
-<img src="profile.jpg" width="400">
+<img src="Cover.png" width="200">
+<img src="profile.jpg" width="200">
 
 ##  Folder Structure
 📁 portfolio/
