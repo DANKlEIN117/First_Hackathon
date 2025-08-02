@@ -27,17 +27,17 @@ Welcome to my personal portfolio website, a creative and professional space show
 <img src="profile.jpg" width="200">
 
 ##  Folder Structure
--📁 portfolio/
--├──Cover.png
--├── profile.jpg
--├── 📄 index.html
--├── 📄 about.html
--├── 📄 education.html
--├── 📄 interests.html
--├── 📄 languages.html
--├── 📄 projects.html
--├── 📄 contact.html
--└── 📄 style.css
+- 📁 portfolio/
+- ├──Cover.png
+- ├── profile.jpg
+- ├── 📄 index.html
+- ├── 📄 about.html
+- ├── 📄 education.html
+- ├── 📄 interests.html
+- ├── 📄 languages.html
+- ├── 📄 projects.html
+- ├── 📄 contact.html
+- └── 📄 style.css
 
 
 ##  Getting Started
