@@ -1,10 +1,10 @@
-# 💼 Dan Omondi Okoth — Personal Portfolio
+#  Dan Omondi Okoth — Personal Portfolio
 
 Welcome to my personal portfolio website, a creative and professional space showcasing who I am, what I do, and the journey I'm on in the world of tech.
 
-## 🌍 Live Demo
+##  Live Demo
 
-🔗 [View Portfolio Live](https://your-deployment-link.com)
+🔗 [View Portfolio Live](https://688e9aa81d9c626b93a9a781--inquisitive-stardust-24ec3c.netlify.app/)
 
 ##  Features
 
@@ -26,5 +26,25 @@ Welcome to my personal portfolio website, a creative and professional space show
 <img src="Cover.png" width="400">
 <img src="profile.jpg" width="400">
 
-## 📁 Folder Structure
+##  Folder Structure
+📁 portfolio/
+├──Cover.png
+├── profile.jpg
+├── 📄 index.html
+├── 📄 about.html
+├── 📄 education.html
+├── 📄 interests.html
+├── 📄 languages.html
+├── 📄 projects.html
+├── 📄 contact.html
+└── 📄 style.css
+
+
+##  Getting Started
+
+To run this project locally:
+
+1. Clone the repository:
+   
+   git clone 
 
