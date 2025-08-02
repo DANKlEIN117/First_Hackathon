@@ -16,12 +16,12 @@ Welcome to my personal portfolio website, a creative and professional space show
 -  Projects page to showcase work (coming soon)
 -  Contact page for easy reach out
 
-## 🛠️ Built With:
+##  Built With:
 
 - HTML5
 - CSS3 
 
-## 📷 Screenshots
+##  Photos 
 
 <img src="Cover.png" width="400">
 <img src="profile.jpg" width="400">
@@ -46,5 +46,27 @@ To run this project locally:
 
 1. Clone the repository:
    
-   git clone 
+   git clone "https://github.com/DANKlEIN117/First_Hackathon.git"
 
+2. Open index.html in your browser.
+
+No installation or dependencies required.
+
+## License
+This project is open-source and available under the MIT License.
+
+## Crafted With Love, Code, and Curiosity.
+ Reach me at: omondiokothdan@gmail.com
+
+##  Contributing
+
+Fork the repository
+Create a feature branch (git checkout -b feature/AmazingFeature)
+Commit your changes (git commit -m 'Add some AmazingFeature')
+Push to the branch (git push origin feature/AmazingFeature)
+Open a Pull Request
+I really value your contribution.
+
+
+
+⭐ Don't forget to give this project a star if you found it helpful!
