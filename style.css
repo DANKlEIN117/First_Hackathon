@@ -10,9 +10,9 @@ body {
     color: #fff;
     text-align:center;
     min-height: 100vh;
-    padding: 20px;
+    padding: clamp(1.8rem, 20vw, 10rem);
     font-family: "High Tower Text", serif;
-    font-size: 1.5rem;
+    font-size: 1.8vw;
 }
 
 .container {
@@ -31,7 +31,7 @@ header{
 }
 
 h1{
-    font-size: 2.5rem;
+    font-size: clamp(1.8rem,2.5vw, 5rem);
     color: #5fcf33f8;
     text-shadow: 0 0 10px #ff6ec4;
 }
@@ -48,7 +48,7 @@ nav ul{
 nav ul li{
     margin: 10px;
     font-family: "High Tower Text", serif;
-    font-size: 1.5rem;
+    font-size: clamp(0.2rem ,1.5vw, 2.0rem);
     margin: 10px;
     flex: 0 1 auto;
 }
@@ -314,7 +314,7 @@ footer{
     margin: 30px auto;
     padding: 20px;
     text-align: center;
-    font-size: 2.0rem;
+    font-size: clamp(1.8rem,  calc(1vw + 1rem), 5rem);
     line-height: 1.8;
     max-height: auto;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
