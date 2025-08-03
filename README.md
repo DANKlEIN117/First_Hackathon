@@ -4,7 +4,7 @@ Welcome to my personal portfolio website, a creative and professional space show
 
 ##  Live Demo
 
-🔗 [View my Portfolio Live](https://688e9aa81d9c626b93a9a781--inquisitive-stardust-24ec3c.netlify.app/)
+🔗 [View my Portfolio Live](https://inquisitive-stardust-24ec3c.netlify.app/)
 
 ##  Features
 
